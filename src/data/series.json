@@ -35,7 +35,7 @@
   "saisons": 3,
   "note": 4.7,
   "synopsis": "Le quotidien de plusieurs femmes sénégalaises confrontées aux relations amoureuses complexes.",
-  "image": "/images/maitressedunhommemariee.jpg",
+  "image": "/images/maitressedunhommemarie.jpg",
   "acteurs": ["Halima Gadji", "cheikh diagne"],
   "enCours": true
 },
@@ -87,7 +87,7 @@
   "saisons": 3,
   "note": 4.4,
   "synopsis": "La vie quotidienne d’une famille sénégalaise moderne.",
-  "image": "/images/une-famille-senegalaise.jpg",
+  "image": "/images/famille-senegalaise.jpg",
   "acteurs": ["Fatou Ndiaye", "Moussa Diop"],
   "enCours": false
 },
@@ -139,7 +139,7 @@
   "saisons": 2,
   "note": 4.8,
   "synopsis": "Une série d’aventure autour des mystères des eaux et traditions.",
-  "image": "/images/maitres-des- eaux.jpg",
+  "image": "/images/maitres-des-eaux.jpg",
   "acteurs": ["Omar Sylla", "Fatou Bintou"],
   "enCours": true
 },
