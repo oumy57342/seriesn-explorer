@@ -8,7 +8,7 @@
     "saisons": 3,
     "note": 4.5,
     "synopsis": "Série sur la vie familiale sénégalaise.",
-    "image": "/images/dinamanekh/.jpg",
+    "image": "/images/dinama-nekh/.jpg",
     "acteurs": ["Maimouna", "Daro"],
     "enCours": true
   },
@@ -21,7 +21,7 @@
     "saisons": 4,
     "note": 4.8,
     "synopsis": "Histoire d’amour moderne.",
-    "image": "/images/podetmarichou.jpg",
+    "image": "/images/pod-et-marichou.jpg",
     "acteurs": ["Pape omar Diop", "Mariétou"],
     "enCours": false
   },
@@ -35,7 +35,7 @@
   "saisons": 3,
   "note": 4.7,
   "synopsis": "Le quotidien de plusieurs femmes sénégalaises confrontées aux relations amoureuses complexes.",
-  "image": "/images//maitressedunhommemariee.jpg",
+  "image": "/images//maitresse-dun-homme-mariee.jpg",
   "acteurs": ["Halima Gadji", "cheikh diagne"],
   "enCours": true
 },
@@ -48,7 +48,7 @@
   "saisons": 2,
   "note": 4.3,
   "synopsis": "Une série humoristique sur la vie quotidienne au Sénégal.",
-  "image": "/images/wiriwiri.jpg",
+  "image": "/images/wiri- wiri.jpg",
   "acteurs": ["Soumboulou", "jojo"],
   "enCours": false
 },
@@ -74,7 +74,7 @@
   "saisons": 2,
   "note": 4.2,
   "synopsis": "Une histoire familiale marquée par les défis sociaux.",
-  "image": "/images/boutdebois.jpg",
+  "image": "/images/bout-de-bois.jpg",
   "acteurs": ["Aminata Fall", "Cheikh Ndiaye"],
   "enCours": false
 },
@@ -87,7 +87,7 @@
   "saisons": 3,
   "note": 4.4,
   "synopsis": "La vie quotidienne d’une famille sénégalaise moderne.",
-  "image": "/images/famillesenegalaise.jpg",
+  "image": "/images/une-famille-senegalaise.jpg",
   "acteurs": ["Fatou Ndiaye", "Moussa Diop"],
   "enCours": false
 },
@@ -139,7 +139,7 @@
   "saisons": 2,
   "note": 4.8,
   "synopsis": "Une série d’aventure autour des mystères des eaux et traditions.",
-  "image": "/images/maitresdeseaux.jpg",
+  "image": "/images/maitres-des- eaux.jpg",
   "acteurs": ["Omar Sylla", "Fatou Bintou"],
   "enCours": true
 },
