@@ -8,7 +8,7 @@
     "saisons": 3,
     "note": 4.5,
     "synopsis": "Série sur la vie familiale sénégalaise.",
-    "image": "https://picsum.photos/seed/dinama/300/450",
+    "image": "https://picsum.photos/seed/dinamanekh/300/450",
     "acteurs": ["Maimouna", "Daro"],
     "enCours": true
   },
@@ -21,7 +21,7 @@
     "saisons": 4,
     "note": 4.8,
     "synopsis": "Histoire d’amour moderne.",
-    "image": "https://picsum.photos/seed/pod/300/450",
+    "image": "https://picsum.photos/seed/podetmarichou/300/450",
     "acteurs": ["Pape omar Diop", "Mariétou"],
     "enCours": false
   },
@@ -35,7 +35,7 @@
   "saisons": 3,
   "note": 4.7,
   "synopsis": "Le quotidien de plusieurs femmes sénégalaises confrontées aux relations amoureuses complexes.",
-  "image": "https://picsum.photos/seed/maitresse/300/450",
+  "image": "https://picsum.photos/seed/maitressed'unhommemariée/300/450",
   "acteurs": ["Halima Gadji", "Aida Samb"],
   "enCours": true
 },
@@ -87,7 +87,7 @@
   "saisons": 3,
   "note": 4.4,
   "synopsis": "La vie quotidienne d’une famille sénégalaise moderne.",
-  "image": "https://picsum.photos/seed/famillesn/300/450",
+  "image": "https://picsum.photos/seed/famillesenegalaise/300/450",
   "acteurs": ["Fatou Ndiaye", "Moussa Diop"],
   "enCours": false
 },
